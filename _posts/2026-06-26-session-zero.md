@@ -8,15 +8,18 @@ I have only attempted to play solo rpg one other time, using the Ironsworn: Star
 - Story Engine Print and Use (Main deck, Loremaster's Deck, and eventually Deck of Worlds)
 - Some character creation tools for inspiration from Savage Worlds
 - UNE
+
 ## The only universe details so far:
 - Space Opera and Fantasy mix (ships, blasters, magic)
 - Mixed races from various sources
+
 ## The character concept:
 Hindrances from Savage Worlds and some scanning of races led to:
 - Clone
 - Wanted
 - Ailment
 End result: A Mikkian clone, escaped from a facility where the clones were grown for later organ harvesting (think *The Island*). The company has a warrant out on them and will likely send bounty hunters. The clone is also slowly dying (perhaps he can find a cure?). Before he dies, he wants to see Nakajima exposed and other clones set free. [Drawing cards from the GMA]: his name is Janus Joroll.
+
 ## The character stats
 Distinctions (each with Hinder)
 - Escaped Mikkian Clone from Nakajima Technologies (another GMA card draw for name)
