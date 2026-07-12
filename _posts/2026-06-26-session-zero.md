@@ -51,4 +51,4 @@ Specialties
 
 I'll primarily use Stress. Option open for Complications (especially some global ones, such as Wanted by Nakajima Technologies), but the Stress will save my creative energies.
 
-![Character Sheet](/assets/images/janus-joroll-sheet.png)
+![Character Sheet](https://raw.githubusercontent.com/jarrodrcrawford-ops/solo-rpg-blog/af43b46e14bdfa6a2a6aae93976be765c78a5b53/assets/images/janus-joroll-sheet.png)
