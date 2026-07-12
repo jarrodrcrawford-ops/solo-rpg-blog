@@ -50,3 +50,5 @@ Specialties
 - Mask of Many Faces d8
 
 I'll primarily use Stress. Option open for Complications (especially some global ones, such as Wanted by Nakajima Technologies), but the Stress will save my creative energies.
+
+<iframe src ="assets/Janus Joroll - Cortex Toolkit.pdf" width="100%" height="600px" style="border:none;"></iframe>
