@@ -3,7 +3,7 @@ I haven't thought about 'how' FTL works in this universe, so I'll plot a course,
 
 I'll use the deck of worlds to create the opening location on Enzars (random planet name generator):
 
-![image of drawn cards](/solo-rpg-blog/assets/images/Enzars-arrival-location.jpg)
+![image of drawn cards](/assets/images/Enzars-arrival-location.jpg)
 
 We arrive in a crooked canyon which looks as if there were once beautiful trees that grew on outcroppings here. It looks as if there were waterfalls that once flowed down the sides of the canyon, watering the glades as they went. There is a run-down temple-looking structure (I'm thinking Druid-esque) on one of the outcroppings. The trees here have been warped and darkened (corrupted treants are going to be the vile monsters). I'm also thinking that the powerful storms attribute will not be tied to this location, alone. The planet is home to constant storms: and this is how the ship is going to end up being damaged as we arrive.
 
