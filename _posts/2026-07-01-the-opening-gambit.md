@@ -1,70 +1,86 @@
-# Setting the Scene
-I've no longer got my collaboraters as I sit down to think about the next scene. I decide that Sib and I have known each other before. For some reason, however, I thought he was lost. 
+# Setting up the Opening Scene
+[Using GMA, I draw 7 cards to develop the opening scene:]
+- Catalyst: A ship reappears...
+- Location: Smuggler's Den
+- Senses: rumble of hover drone, lamps from the ends of barrels, rumbling sensation, scent of sage
 
-[I turn to the Loremaster/Story Engine and draw an Event: Cosmic Vortex, witnessed by many.] 
+From this, I decide Janus is on a space station in a smuggler's den. Why is Janus here? 
 
-I envision the scene with Sib attempting to plot a new FTL course when there is a sudden cosmic storm of sorts. This is next to a space station (the same one I've just left?), and people were watching across the vidscreens. Sib's ship disappears, but they're no trace of an FTL trail, no response to hails, and no evidence that he survived.  
+[Working with the Action and Theme Tables from Starforged, I get: Impress Defense.] 
 
-Even though I'm glad to see him alive, this isn't going to be the place for a reunion. I think I'd likely have somewhere nearby where we could put down for a bit and recuperate. 
+So my ship has been impounded, and I'm meeting with a Council Woman named [GMA draw] Veda to try and get access/release of my ship. Why is my ship impounded? 
 
-[My oracle roll determines yes, I do, but it's pretty sparce. Using Loremaster/Story Engine, I draw Location cards: We've got a cavern, known as a breeding ground, for foxes, associated with a deity.] 
+[Descriptor and Focus Tables: Haunted Resource.] 
 
-I decide I know of a small cavern where Fox spirits gather yearly for rituals of some sort. 
+I'm smuggling something like Ectoplasm which is an illegal substance in these parts. They detected something amiss, so I'm using the ship's AI, holoprojectors, and such to try and pass off the idea that the ship, itself, is haunted. This is what they detected with their scans. Before moving forward with this interaction, I think about the rest of the scene setup.
 
-[Will there by any when we arrive? Oracle: no, and there doesn't appear to be much evidence of them. Might be a thread worth developing.]
+This ship reappearing: [I turn to the mix of Loremaster/Story Engine, drawing cards:
+- Figure (of the options, I decide): Wayfinder, Troubled by Nightmares]
+From this I conclude that he's been kidnapped and has nightmares from that time. [Continuing to develop this, I go back to drawing cards:]
+- Faction: Coalition, Wanting to Start/Prevent a Ritual
+- Figure: Lich
+[GMA draw for name] : 
 
+Sib was kidnapped by the [Starforged Faction Name Tables] Coalition of the Radiant Suns. They used him to stop a ritual by [GMA draw] Tamora, as she was in the final stages of becoming a lich.  (Not sure if this will have a place in the ongoing story yet or just interesting backstory material)
+
+Regarding the senses, perhaps the Councilwoman smells of sage, but the rest put me in mind of a raid of some sort on the smuggler's den. 
+
+[I return to the Loremaster/Story Engine and draw cards:]
+- Faction: Legion, Desire to Gather Object, Powder, Which can affect light/darkness
+
+So I've got the [Faction Name Tables] The First Accord who are seeking to acquire Peruvian Instant Darkness Powder (thank you Rowling). Some smuggler here has either stolen, lost, or somehow mishandled a shipment on their behalf. This might affect my ability to meet with the Councilwoman.
+``
+[Using the MSE, I ask if there will be time to conduct business before the raid. Yes, but I've also rolled a Twist, which means something minor happens in the current scene. I roll on the Random Event Mythic Table and get New NPC.]
+
+[I go back to the Loremaster/Story Engine:]
+- Figure, Refugee, able to speak a dead language, ongoing sickness
+[My mind goes to the Protheans in Mass Effecet or Atlantians from Stargate. This is a lone survivor from a now-extinct/lost civilization. GMA draw] 
+
+Zuri has recently been awakened from cyrostasis of some sort and has a related sickness (or perhaps something worse). 
+
+[Since I've got an unexpected NPC arriving soon (Sib), I draw a motivation card for him and get "wants to protect."] 
+
+Somehow, Zuri has ended up with Sib (perhaps he rescued her?).
 # Action of the scene
-Exiting the ramp, I see Sib, looking worse than I remember, along with a being that I've only seen in myths. Ophelia stumbles as they make their way down the ramp, and I'm moved with compassion. Calling on the mystic arts, I decide to try and help her. 
+(I begin thinking about the conversation with Councilwoman Veda, when one of my five year old sons comes over to the table, "What are you doing?" He's seen me play RPG with his siblings (though their interest changes faster than the weather here in western PA). After a bit of explaining, he decides he wants to join me. The next few decisions are collaborative, especially when his twin brother comes and joins us, too).
 
-[My days are numbered distinction d8, scholar d8, focus d6, and Robe of Healing d6. Rolling against 2d10 + 1d8 (Stress), I succeed, but with another 2 Hitches. Healing this ancient being has drained my reserves, Stress Exhausted d8.] 
+We decide we'll try and persuade the Councilwoman that our ship is haunted, but my magic makes them little more than a nuisance. 
 
-While I'd like to take time to catch up, I get an alert from Nandita that she's picked up another ship. 
+[I'm thinking that I'm trying to use "official" language here, so I'll use our Noble d4 (I think this would net us a plot point), we're arguing from a place of logic, so Smarts d10, since I've been on the run, I've worked with lots of different people, so we'll use the Escaped Clone distinction d8, and we'll have Nandita look up local laws for helping us make our argument, adding Nandita d6. We're rolling against 2d8, 1d10. We fail the check but decide to spend a Plot Point to turn it into a success (Were I alone, I might have taken the failure and played out the consequences).] 
 
-[Will I have time to move my cargo before the ship arrives? Yes, but not by much.] 
+She also informs us that they ordered 
 
-I hastily move the ectoplasm into the caverns and am just walking back when Ophelia's ship arrives.
+[Figure draw Paranormal Investigator (seemed the most appropriate), GMA] 
 
-She approaches me with the warrant to board my ship. As I'm reading it, she begins drawing runes in the hallways, on the floors, and down the corridors of my ship. If I'm going to be able to work with this woman, I need to know something about her. As she's busy with her work, I use this opportunity to do some research on her. This isn't the first time of done this. 
+Ophelia, a paranormal investigator, to search my ship (and hence why it had not yet been released from being impounded).
 
-[I'll roll to create an asset, difficulty 2d8 + 1d8 (Stress). Using Escaped clone distinction, Engineer d16 Smarts d10, Nandita d6, we succeed at creating a d10 asset (Ophelia's Background), but I roll a hitch. I'm fearful that Ophelia will make a connection between me and the warrant that Nakajima has on me, step up Afraid Stress d10.] 
+She'll begin processing the paperwork to release our ship. That's when hear the rattling of glasses and the floor begging to shake. The whine of an engine, then lights, and soldiers from The First Accord raid the den. It's decided we'll try and flee and reach our ship. 
 
-What exactly have I learned? 
+[Our challenge of "Escape" is set at 3d6.]
 
-[Using Loremaster/Story Engine, I draw engine: wants to have a research breakthrough with Figure (technician, GMA: Mathazar) on paranormal research, but they need key item, Object: Scroll, which can be a portal, Figure: Elemental.] 
+The first thing we do is send Nandita to fly into the air as we flip the table, causing the Councilwoman, who doesn't want to be seen here, to scream. Pockets of the air are instantly turned to darkness, so we decide to make an escape from the den. 
 
-Ophelia is searching for the Scroll of Fire to travel to the pocket dimension of The Flaming Warden, an ascended elemental, in order to further her research with Mathazar.
+[This calls for Haste d6, Escapted Clone d8, and Scoundrel d10. We succeed on the check, and our effect die is high enough to knock a die out of the challenge pull.]
 
-Ophelia sets her final rune and slams down her fist, a wave of energy pulsates outward, and the runes around the ship glow in response. She only detects residue, which could be from ghosts or from something else. As I think about her research, I begin to wonder if there's anything she might know or perhaps learn which could help me in my current struggles (after all, my days are numbered). It's time I come clean with Ophelia and offer her assistance. Maybe my cargo might also aid her research. 
+Getting into the hallway, we spot a local guard, who is reacting to the noise at the den. My kids (as expected) decide that we should punch the guard. We make use of our illusion magic, taking on the appearance of a guard so that we can close the distance. 
 
-[Rolling against difficulty 2d8, 1d8 (Ophelia), 1d10 (Stress), I come clean, rolling Escaped Clone d4 (hinder), smarts d10, scholar d8, and my d10 Ophelia's Background asset. Heroic success with a hitch, banking a Hero Die d6 and gaining an Anxious Stress d6 (risky telling her the truth). I decide to spend a Plot Point and create an Ophelia d8 asset to last the rest of the 'session.' Since I would intend to turn her into an ongoing asset after the end of the 'session,' I spend a second Plot Point to make her a permanent asset.]
+[We'll use Initiate distinction d8, Fighter d6, Guile d8, and Mask of Many Faces d8. Rolling against 2d6, 1d8 (the guard), heroic succeed on this check, banking a d8 Hero Die and are able to remove another die from the challenge pool.]
 
-Since Ophelia is not (at least at this time) turning me in, we settle in for a brief respite (step down all stress).
+With only 1d6 left in the challenge pool, we decide to try use the guard's radio and lure some guards away so that Veda can also escape unnoticed. 
 
-[Using UNE, I take time to think through topics of discussion:]
-- Sib: Friendly, Forthcoming, Support, Treasure
-- Zuri: Distrustful, Guarded, Suspicious, Enemy
-- Ophelia: Hostile, Helpful (roll of 98?!), Bargain, Power
+[We roll Escaped Clone d4 (we're reluctant to use our voice on the radio), Guile d8,  Scoundrel d10, and Nandita (helping us with protocol) d6, against 1d6, 1d8 (other guards) and succeed, but we roll two Hitches (1's).] 
 
-Sib wants assistance in protecting Zuri.
-Zuri is trying to figure out if I am her enemy.
-Ophelia is willing to strike a deal in getting her closer to acquiring her scroll.
+This whole ordeal has left us shaken, so we take Afraid Stress d8.
 
-Sib recalls my magical ability, and I agree that I could use Illusion magic to create a false image for Zuri. 
+Since we helped Veda escape, she'll accelerate the paperwork. 
 
-[I haven't developed the magic "rules" as far as durations go... I'II decide that it's magic that must be frequently renewed. In game terms this would be creating an asset for Zuri. Since she's an NPC, I won't bother with the roll until/unless needed.] 
+[Will we get there before Opehlia? MSE result: yes, but not too much sooner.] 
 
-The main issue is the deal to be struck with Ophelia. 
+We decide that we'll get there before she has a chance to board but she is going to end up tracking us.
 
-[GMA Draw for inspiration:]
-- Rune for underworld or dreams
-- Symbols: obstacle, confusion, conflict
-- Belongings: Media kit
+As we begin to pull away from the station, Nandita alerts us that there's a familiar IFF signal that just popped on the radar...
 
-The world to which we must travel is rumored to have been destroyed. Ophelia says that's not the case. A great magical cataclysm turned the one-time paradise into a hellish landscape. The government did not want to cause a panic that such a catastrophe could happen again, so they blamed the destruction on a foreign power and did their best to keep people away. This is the last known location of the Scroll which she seeks. Even though we are moving towards danger, Sib is convinced he's safe from anyone who might be looking for him or Zuri in such a place as that.
-
-We begin to plot a course.
 # Threads List
 1. Expose Nakajima Technologies
-2. Help Sib and Zuri
-3. ~~Deal with Ophelia~~ Help Ophelia
-4. Investigate the Fox Spirits (should this be of interest)
+2. Help Sib
+3. Deal with Ophelia
